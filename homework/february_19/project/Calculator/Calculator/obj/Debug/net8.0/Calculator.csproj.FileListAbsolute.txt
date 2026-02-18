@@ -1,0 +1,15 @@
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/ref/Calculator.dll
