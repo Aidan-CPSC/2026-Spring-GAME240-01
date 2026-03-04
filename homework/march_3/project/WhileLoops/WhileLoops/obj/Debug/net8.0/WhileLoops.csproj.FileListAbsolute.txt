@@ -1,0 +1,15 @@
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/bin/Debug/net8.0/WhileLoops
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/bin/Debug/net8.0/WhileLoops.deps.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/bin/Debug/net8.0/WhileLoops.runtimeconfig.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/bin/Debug/net8.0/WhileLoops.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/bin/Debug/net8.0/WhileLoops.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/WhileLoops.AssemblyInfo.cs
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/WhileLoops.sourcelink.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/WhileLoops.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/refint/WhileLoops.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/WhileLoops.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/WhileLoops.genruntimeconfig.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/WhileLoops/WhileLoops/obj/Debug/net8.0/ref/WhileLoops.dll
