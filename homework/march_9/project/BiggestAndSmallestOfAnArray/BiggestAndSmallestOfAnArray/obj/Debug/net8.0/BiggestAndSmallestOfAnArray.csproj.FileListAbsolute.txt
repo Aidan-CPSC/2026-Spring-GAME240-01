@@ -1,0 +1,15 @@
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/bin/Debug/net8.0/BiggestAndSmallestOfAnArray
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/bin/Debug/net8.0/BiggestAndSmallestOfAnArray.deps.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/bin/Debug/net8.0/BiggestAndSmallestOfAnArray.runtimeconfig.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/bin/Debug/net8.0/BiggestAndSmallestOfAnArray.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/bin/Debug/net8.0/BiggestAndSmallestOfAnArray.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/BiggestAndSmallestOfAnArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/BiggestAndSmallestOfAnArray.AssemblyInfoInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/BiggestAndSmallestOfAnArray.AssemblyInfo.cs
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/BiggestAndSmallestOfAnArray.csproj.CoreCompileInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/BiggestAndSmallestOfAnArray.sourcelink.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/BiggestAndSmallestOfAnArray.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/refint/BiggestAndSmallestOfAnArray.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/BiggestAndSmallestOfAnArray.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/BiggestAndSmallestOfAnArray.genruntimeconfig.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/project/BiggestAndSmallestOfAnArray/BiggestAndSmallestOfAnArray/obj/Debug/net8.0/ref/BiggestAndSmallestOfAnArray.dll
