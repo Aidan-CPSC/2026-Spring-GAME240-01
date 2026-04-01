@@ -1,0 +1,15 @@
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/bin/Debug/net8.0/ImprovedCalculator
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/bin/Debug/net8.0/ImprovedCalculator.deps.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/bin/Debug/net8.0/ImprovedCalculator.runtimeconfig.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/bin/Debug/net8.0/ImprovedCalculator.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/bin/Debug/net8.0/ImprovedCalculator.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/ImprovedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/ImprovedCalculator.AssemblyInfoInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/ImprovedCalculator.AssemblyInfo.cs
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/ImprovedCalculator.csproj.CoreCompileInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/ImprovedCalculator.sourcelink.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/ImprovedCalculator.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/refint/ImprovedCalculator.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/ImprovedCalculator.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/ImprovedCalculator.genruntimeconfig.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_2/project/ImprovedCalculator/ImprovedCalculator/obj/Debug/net8.0/ref/ImprovedCalculator.dll
