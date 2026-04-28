@@ -3,7 +3,7 @@ using System.IO;
 
 class Program
 {
-    static void Main()
+    void Main()
     {
         string specialPath = "";
         string logPath = "";
