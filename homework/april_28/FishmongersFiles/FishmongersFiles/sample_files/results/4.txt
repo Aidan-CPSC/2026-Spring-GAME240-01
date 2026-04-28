@@ -1,0 +1,3 @@
+Today's special is: tuna
+Total tuna caught: 26
+All fish caught: 191

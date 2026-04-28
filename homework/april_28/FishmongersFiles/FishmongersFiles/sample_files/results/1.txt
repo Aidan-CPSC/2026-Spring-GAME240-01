@@ -1,0 +1,3 @@
+Today's special is salmon
+Total salmon caught: 5
+Total fish caught: 36

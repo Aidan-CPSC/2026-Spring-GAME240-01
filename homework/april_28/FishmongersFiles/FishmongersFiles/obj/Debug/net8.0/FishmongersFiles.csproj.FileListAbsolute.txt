@@ -1,0 +1,15 @@
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/bin/Debug/net8.0/FishmongersFiles
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/bin/Debug/net8.0/FishmongersFiles.deps.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/bin/Debug/net8.0/FishmongersFiles.runtimeconfig.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/bin/Debug/net8.0/FishmongersFiles.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/bin/Debug/net8.0/FishmongersFiles.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/FishmongersFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/FishmongersFiles.AssemblyInfoInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/FishmongersFiles.AssemblyInfo.cs
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/FishmongersFiles.csproj.CoreCompileInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/FishmongersFiles.sourcelink.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/FishmongersFiles.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/refint/FishmongersFiles.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/FishmongersFiles.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/FishmongersFiles.genruntimeconfig.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/april_28/FishmongersFiles/FishmongersFiles/obj/Debug/net8.0/ref/FishmongersFiles.dll

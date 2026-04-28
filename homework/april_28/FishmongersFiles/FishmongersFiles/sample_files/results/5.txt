@@ -1,0 +1,3 @@
+Today's special is: eel
+Total eel caught: 42
+All fish caught: 166
