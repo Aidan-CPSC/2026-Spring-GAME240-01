@@ -1,0 +1,18 @@
+- Start by the Fallen Tree
+- "move west" to go to the Frozen Lake
+- "move west" to enter the Main Cabin
+- "move west" to go to the Master Bedroom
+- "take key" to pick up the key
+- "move east" to go to the Main Cabin
+- "move east" to go to the Frozen Lake
+- "use key" to unlock the Tool Shed
+- "move south" to enter the Tool Shed
+- "take torch" to pick up the torch
+- "move north" to go to the Frozen Lake
+- "move west" to enter the Main Cabin
+- "move north" to enter the Cabin Basement
+- "use torch" to light the torch
+- "take fuel" to pick up the fuel
+- "move south" to return to Main Cabin
+- "move south" to go to the Helipad
+- "use fuel" to fuel the helicopter and win

@@ -1,0 +1,15 @@
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/bin/Debug/net8.0/Game230FinalProject
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/bin/Debug/net8.0/Game230FinalProject.deps.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/bin/Debug/net8.0/Game230FinalProject.runtimeconfig.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/bin/Debug/net8.0/Game230FinalProject.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/bin/Debug/net8.0/Game230FinalProject.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/Game230FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/Game230FinalProject.AssemblyInfoInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/Game230FinalProject.AssemblyInfo.cs
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/Game230FinalProject.csproj.CoreCompileInputs.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/Game230FinalProject.sourcelink.json
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/Game230FinalProject.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/refint/Game230FinalProject.dll
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/Game230FinalProject.pdb
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/Game230FinalProject.genruntimeconfig.cache
+/Users/aidanstewart/Documents/GitHub/2026-Spring-GAME240-01/homework/Game230FinalProject/Game230FinalProject/obj/Debug/net8.0/ref/Game230FinalProject.dll
